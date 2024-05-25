@@ -48,8 +48,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "650beec8cecac0d094cd4fcfe09f5a4f
 "assets/assets/womendress2.png": "980a33ed5e0dd314b4236dd06676e90e",
 "assets/assets/womendress4.png": "2db96906b368b04c0d7e81683274625f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "169436f7dcc37d593b5be11748850c97",
-"assets/NOTICES": "50b6e161f6288891236ae0b8b6a65757",
+"assets/fonts/MaterialIcons-Regular.otf": "b2edecc00f8e987fb17ae960bacec3e8",
+"assets/NOTICES": "4ff65182474eafbe12c964cde8124172",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/flutter_paystack/assets/images/american_express.png": "fac1ed63030230003fa52ee8f98aa8dc",
 "assets/packages/flutter_paystack/assets/images/dinners_club.png": "24450426cbb1e5b657356b6cca621956",
@@ -77,9 +77,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "650beec8cecac0d094cd4fcfe09f5a4f
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c9647404c5e518c7a3891b64c22f6ee2",
-"/": "c9647404c5e518c7a3891b64c22f6ee2",
-"main.dart.js": "9ce282b6f41b343185dae360a50dc939",
+"index.html": "5cf54b47c04cb1ce418563c3712d83ac",
+"/": "5cf54b47c04cb1ce418563c3712d83ac",
+"main.dart.js": "25bf88d57589b9dd25403ceec8aafb29",
 "manifest.json": "f64191d4734ae8249aa5dac8db0508d9",
 "version.json": "11859a22443da1b9d816183dd4adb62d"};
 // The application shell files that are downloaded before a service worker can
